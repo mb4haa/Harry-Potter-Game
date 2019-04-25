@@ -1,2 +1,2 @@
 # Harry-Potter-Game
-University Project
+University Project turn based game engine with a harry potter theme.
